@@ -19,22 +19,22 @@ Fetches and displays character details based on user input
 Handles input errors (non-numeric, invalid IDs, etc.)
 Exits gracefully with the keyword "salir"
 
-🔧 Built With
+# 🔧 Built With
 Java 17
 HttpClient (built-in HTTP requests)
 Gson (com.google.code.gson) for JSON parsing
 Maven for dependency management
 
-🌐 API Reference
+# 🌐 API Reference
 This project uses the Thrones API:
 📎 https://thronesapi.com/api/v2/Characters
 You can explore it using Swagger UI.
 
-✨ Future Ideas
+# ✨ Future Ideas
 List all characters
 Filter by family or title
 Create a menu with options
 GUI version using JavaFX or Swing
 
-📄 License
+# 📄 License
 This project is open source and free to use for educational purposes.
